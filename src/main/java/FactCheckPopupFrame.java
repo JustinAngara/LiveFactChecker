@@ -42,7 +42,7 @@ public class FactCheckPopupFrame extends JFrame {
             + "Begin your analysis immediately upon receiving the transcript.\n";
 
     public FactCheckPopupFrame(List<String> transcriptList) {
-        setTitle("Fact Check Result");
+        setTitle("Reveal That BS Result");
         setSize(700, 600);
         setLocationRelativeTo(null);
         setAlwaysOnTop(true);

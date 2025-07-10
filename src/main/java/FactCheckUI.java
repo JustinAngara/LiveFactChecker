@@ -16,7 +16,7 @@ public class FactCheckUI extends JFrame {
     private final List<String> transcriptList = new ArrayList<>();
 
     public FactCheckUI() {
-        setTitle("🔍 Live Fact Checker");
+        setTitle("🔍 Reveal That BS");
         // scale width to 55% of 900px
         int scaledWidth = (int)(900 * 0.55);
         setSize(scaledWidth, 550);

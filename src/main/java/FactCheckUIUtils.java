@@ -131,7 +131,7 @@ Begin your analysis immediately upon receiving the transcript.
         header.setPreferredSize(new Dimension(frame.getWidth(), 40));
         header.add(createCloseButton(), BorderLayout.EAST);
 
-        JLabel titleLabel = new JLabel("  Live Fact Checker");
+        JLabel titleLabel = new JLabel("  Reveal That BS");
         titleLabel.setFont(new Font("Segoe UI", Font.BOLD, 16));
         titleLabel.setForeground(Color.WHITE);
         header.add(titleLabel, BorderLayout.WEST);
